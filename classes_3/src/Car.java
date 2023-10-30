@@ -5,7 +5,7 @@ public class Car {
     private String color;
     private int doors;
 
-    //creating a constructor -> use the name of the class
+    //to create a constructor, use the name of the class then its parameters
     public Car(String name, String model, String color, int doors) {
         this.name = name;
         this.model = model;
