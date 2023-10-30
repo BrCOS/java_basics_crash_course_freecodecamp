@@ -11,3 +11,6 @@ Language: Java
 Build Sytem: IntelliJ
 
 JDK: coretto-17 (Amazon Coretto Version 17.0.9)
+
+## Course Link
+https://www.youtube.com/watch?v=GdzRzWymT4c
