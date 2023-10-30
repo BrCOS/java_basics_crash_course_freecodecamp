@@ -16,7 +16,7 @@ public class Main {
         System.out.println(car2.getColor());
         System.out.println(car2.getDoors());
 
-        //we can use setters to change the value
+        //we can use setters to make a safe copy of the value and change it (won't change the value itself)
         car.setName("Corvette");
         System.out.println(car.getName());
     }
