@@ -59,7 +59,7 @@ class Plane extends Vehicle{
         this.engines = engines;
     }
 
-    //we can overwrite a function that is in the parent class (Vehicle) (CTRL + O)
+    //we can override a function that is in the parent class (Vehicle) (CTRL + O)
     @Override
     public void move() {
         System.out.println("Moving by flying");
